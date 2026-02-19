@@ -47,24 +47,6 @@ I am a passionate **Frontend Web Developer** specializing in creating clean, sca
 ---
 
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sourav-1210&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007ACC" />
-
-<img src="https://streak-stats.demolab.com?user=Sourav-1210&theme=tokyonight&hide_border=true&background=0D1117&ring=007ACC&fire=007ACC" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-1210&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007ACC" />
-
-</div>
-
 
 ---
 
