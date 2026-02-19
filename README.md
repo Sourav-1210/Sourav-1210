@@ -32,16 +32,21 @@
 
 ### 📊 My GitHub Stats
 
+### 📊 My GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourav-1210&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sourav's GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav-1210&theme=tokyonight&hide_border=true&background=0D1117" alt="Sourav's Streak" />
+
+[![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sourav-1210&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400)](https://github.com/Sourav-1210)
+[![Sourav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sourav-1210&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/Sourav-1210)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-1210&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-1210&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400)](https://github.com/Sourav-1210)
+
 </div>
 
 ---
