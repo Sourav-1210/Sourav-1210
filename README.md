@@ -48,16 +48,24 @@ I am a passionate **Frontend Web Developer** specializing in creating clean, sca
 
 ### 📊 GitHub Analytics
 
+### 📊 GitHub Analytics
+
 <div align="center">
-  
-  [![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sourav-1210&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007ACC&cache_seconds=86400)](https://github.com/Sourav-1210)
-  [![Sourav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sourav-1210&theme=tokyonight&hide_border=true&background=0D1117&ring=007ACC&fire=007ACC)](https://github.com/Sourav-1210)
-  
+  <a href="https://github.com/Sourav-1210">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sourav-1210&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007ACC" alt="Sourav's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Sourav-1210">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourav-1210&theme=tokyonight&hide_border=true&background=0D1117&ring=007ACC&fire=007ACC" alt="Sourav's Streak" />
+  </a>
 </div>
+
 <br/>
+
 <div align="center">
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-1210&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007ACC&cache_seconds=86400)](https://github.com/Sourav-1210)
+  <a href="https://github.com/Sourav-1210">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-1210&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007ACC" alt="Top Languages" />
+  </a>
+</div>
   
 </div>
 
